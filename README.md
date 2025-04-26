@@ -1,5 +1,9 @@
 create-react-app
 congigured tailind
+Header
+Login Form
+Sign Up Form
+Form Validation
 
 Features----
 1. Login/Sign Up
